@@ -1,0 +1,7 @@
+{
+  "name": "Mental Pharma CLUB 2.0",
+  "description": "Sistema de gestão de marketplace farmacêutico com split de pagamentos Stripe Connect, compliance de receitas médicas e dashboard executivo para a Conscius Saúde Mental Integral.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
